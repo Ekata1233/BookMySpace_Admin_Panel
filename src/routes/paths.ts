@@ -13,4 +13,5 @@ export default {
   boxeslist: `/${rootPaths.authRoot}/boxeslist`,
   officetour: `/${rootPaths.authRoot}/officetour`,
   exploreoffice: `/${rootPaths.authRoot}/exploreoffice`,
+  workbusiness: `/${rootPaths.authRoot}/workbusiness`,
 };
