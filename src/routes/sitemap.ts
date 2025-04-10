@@ -80,6 +80,13 @@ const sitemap: MenuItem[] = [
         pathName: 'explore-office',
         active: true,
       },
+      {
+        id: 13,
+        name: 'workbusiness',
+        path: paths.workbusiness,
+        pathName: 'workbusiness',
+        active: true,
+      },
     ],
   },
   // {

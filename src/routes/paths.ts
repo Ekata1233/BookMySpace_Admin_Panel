@@ -14,4 +14,5 @@ export default {
   officetour: `/${rootPaths.authRoot}/officetour`,
   exploreoffice: `/${rootPaths.authRoot}/exploreoffice`,
   officespacelist: `/${rootPaths.authRoot}/office-space-list`,
+  workbusiness: `/${rootPaths.authRoot}/workbusiness`,
 };
